@@ -1,0 +1,8 @@
+{
+  "users": [
+    { "id": 1, "name": "Simone", "surname": "Di Meglio", "age": 28 },
+    { "id": 2, "name": "Marco", "surname": "Rossi", "age": 29 },
+    { "id": 3, "name": "Andrea", "surname": "Bianchi", "age": 30 }
+  ]
+}
+
